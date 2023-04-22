@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/letuan317/PyObjectify.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "letuan317",
   "engines": {
     "vscode": "^1.77.0"
