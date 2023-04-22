@@ -1,13 +1,13 @@
 {
-  "name": "pyobjectify",
-  "displayName": "pyobjectify",
+  "name": "PyObjectify",
+  "displayName": "PyObjectify",
   "description": "Create python object",
   "icon": "images/object128.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/letuan317/PyObjectify.git"
   },
-  "version": "0.0.2",
+  "version": "0.0.4",
   "publisher": "letuan317",
   "engines": {
     "vscode": "^1.77.0"
